@@ -1,8 +1,6 @@
 import cv2
 import os
 from imgaug import augmenters as iaa
-from multiprocessing import Pool
-import time
 import random
 
 image_folder = r"C:\Users\SHEIKH NAIM\Desktop\Dataset\Train"
